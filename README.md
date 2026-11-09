@@ -1,6 +1,6 @@
 # PORTEXA Portfolio API
 
-FastAPI service for account access and portfolio creation, management, preview, and download. The implemented theme is **3D Minimal** (`3d-minimal`); portfolio data is theme-independent so additional themes can be introduced later.
+FastAPI service for account access and portfolio creation, management, preview, and download. Available themes are **3D Minimal** (`3d-minimal`) and **Mono Orbit** (`mono-orbit`); portfolio content stays theme-independent.
 
 ## Run locally
 
